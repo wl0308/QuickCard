@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>34CE006D-A8FD-436F-BEC8-E644179496F2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QuickCard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>94e4040a-4619-47f2-9d86-42efa42f8335</key>
+		<string>http://code.taobao.org/svn/PTC01-i07150720-QuickCard</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/QuickCard/QuickCard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>94e4040a-4619-47f2-9d86-42efa42f8335</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>94e4040a-4619-47f2-9d86-42efa42f8335</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>94e4040a-4619-47f2-9d86-42efa42f8335</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PTC01-i07150720-QuickCard</string>
+		</dict>
+	</array>
+</dict>
+</plist>

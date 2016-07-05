@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="quickcard" translatesAutoresizingMaskIntoConstraints="NO" id="jgJ-23-Abk">
+                    <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="jgJ-23-Abk" secondAttribute="bottom" id="5fZ-uT-cxm"/>
+                <constraint firstItem="jgJ-23-Abk" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Jen-v0-BJH"/>
+                <constraint firstAttribute="trailing" secondItem="jgJ-23-Abk" secondAttribute="trailing" id="NEM-dC-X0e"/>
+                <constraint firstItem="jgJ-23-Abk" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="yh9-s2-9Q5"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+            <variation key="default">
+                <mask key="subviews">
+                    <exclude reference="jgJ-23-Abk"/>
+                </mask>
+                <mask key="constraints">
+                    <exclude reference="5fZ-uT-cxm"/>
+                    <exclude reference="Jen-v0-BJH"/>
+                    <exclude reference="NEM-dC-X0e"/>
+                    <exclude reference="yh9-s2-9Q5"/>
+                </mask>
+            </variation>
+            <variation key="heightClass=regular-widthClass=compact">
+                <mask key="subviews">
+                    <include reference="jgJ-23-Abk"/>
+                </mask>
+                <mask key="constraints">
+                    <include reference="5fZ-uT-cxm"/>
+                    <include reference="Jen-v0-BJH"/>
+                    <include reference="NEM-dC-X0e"/>
+                    <include reference="yh9-s2-9Q5"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="quickcard" width="320" height="568"/>
+    </resources>
+</document>

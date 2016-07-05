@@ -1,0 +1,122 @@
+//
+//  global.pch
+//  QuickCard
+//
+//  Created by administrator on 15/10/10.
+//  Copyright (c) 2015年 administrator. All rights reserved.
+//
+
+#ifndef QuickCard_global_pch
+#define QuickCard_global_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#define SCREEN_W [UIScreen mainScreen].bounds.size.width  //屏幕的宽
+#define SCREEN_H [UIScreen mainScreen].bounds.size.height //屏幕的高
+#define NAVSIZE_H self.navigationController.navigationBar.frame.size.height //导航栏的高
+#define NAVSIZE_W self.navigationController.navigationBar.frame.size.width  //导航栏的宽
+
+#define user_idKey @"user_id"
+#define user_numberKey @"user_number"
+#define user_mobileKey @"user_mobile"
+#define user_passwordKey @"user_password"
+#define user_deptKey @"user_department"
+#define user_nameKey @"user_name"
+#define user_gradeKey @"user_grade"
+#define user_sexKey @"user_sex"
+#define user_emailKey @"user_email"
+#define user_addressKey @"user_address"
+#define user_imgKey @"user_img"
+#define user_superiorNumKey @"user_superior_number"
+
+/**
+ *  传入的元素字段需是post方式，返回的code == 200 表示成功，code == 100表示失败
+ */
+
+
+//用户登录接口
+#define users_login @"http://10.110.5.119:8888/QuickCard/users.php?action=login"
+
+//修改密码接口
+#define users_update @"http://10.110.5.119:8888/QuickCard/users.php?action=updateData"
+
+//修改头像接口
+#define users_updateImg @"http://10.110.5.119:8888/QuickCard/users.php?action=updateImg"
+
+//修改家庭地址接口
+#define users_updateAddress @"http://10.110.5.119:8888/QuickCard/users.php?action=updateAddress"
+
+//通讯录接口
+#define show_department @"http://10.110.5.119:8888/QuickCard/users.php?action=show_department"
+
+//添加用户信息接口
+#define users_add @"http://10.110.5.119:8888/QuickCard/users.php?action=add"
+
+//下属信息接口
+#define users_select @"http://10.110.5.119:8888/QuickCard/users.php?action=select"
+
+//通告内容接口
+#define notice_show @"http://10.110.5.119:8888/QuickCard/notice.php?action=show"
+
+//添加通告接口
+#define notice_add @"http://10.110.5.119:8888/QuickCard/notice.php?action=add"
+
+//添加订阅接口
+#define subscribe_add @"http://10.110.5.119:8888/QuickCard/subscribe.php?action=add"
+
+//订阅内容接口
+#define subscribe_show @"http://10.110.5.119:8888/QuickCard/subscribe.php?action=show"
+
+//订阅部门详细内容接口
+#define subdetail_show @"http://10.110.5.119:8888/QuickCard/subscribe.php?action=show_department"
+
+//通知内容接口
+#define notification_show @"http://10.110.5.119:8888/QuickCard/notification.php?action=show"
+
+//添加通知接口
+#define notification_add @"http://10.110.5.119:8888/QuickCard/notification.php?action=add"
+
+//备忘内容接口
+#define memorandum_show @"http://10.110.5.119:8888/QuickCard/memorandum.php?action=show"
+
+//添加备忘接口
+#define memorandum_add @"http://10.110.5.119:8888/QuickCard/memorandum.php?action=add"
+
+//删除备忘接口
+#define memorandum_delete @"http://10.110.5.119:8888/QuickCard/memorandum.php?action=delete"
+
+//显示上下班时间接口
+#define work_time_show @"http://10.110.5.119:8888/QuickCard/work_time.php?action=show"
+
+//设置上班时间接口
+#define work_time_updateTime1 @"http://10.110.5.119:8888/QuickCard/work_time.php?action=updateTime1"
+
+//设置下班时间接口
+#define work_time_updateTime2 @"http://10.110.5.119:8888/QuickCard/work_time.php?action=updateTime2"
+
+//个人打卡信息接口
+#define clock_select @"http://10.110.5.119:8888/QuickCard/clock.php?action=select"
+
+//上下班打卡接口
+#define clock_add @"http://10.110.5.119:8888/QuickCard/clock.php?action=add"
+
+//我的考勤接口
+#define clock_showMy @"http://10.110.5.119:8888/QuickCard/clock.php?action=showMy"
+
+//下属考勤接口
+#define clock_show @"http://10.110.5.119:8888/QuickCard/clock.php?action=show"
+
+//请假接口
+#define absence_add @"http://10.110.5.119:8888/QuickCard/absence.php?action=add"
+
+//审批内容接口
+#define absence_show @"http://10.110.5.119:8888/QuickCard/absence.php?action=show"
+
+//审批结果接口
+#define absence_add_state @"http://10.110.5.119:8888/QuickCard/absence.php?action=add_state"
+
+//外勤记录接口
+#define fieldwork_add @"http://10.110.5.119:8888/QuickCard/fieldwork.php?action=add"
+
+#endif

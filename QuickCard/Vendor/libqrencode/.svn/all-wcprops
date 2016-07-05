@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode
+END
+QRCodeGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/QRCodeGenerator.m
+END
+bitstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/bitstream.h
+END
+split.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/split.h
+END
+qrencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/qrencode.c
+END
+mask.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/mask.h
+END
+qrspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/qrspec.h
+END
+qrinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/qrinput.c
+END
+qrencode.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/qrencode.h
+END
+qrinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/qrinput.h
+END
+rscode.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/rscode.c
+END
+rscode.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/rscode.h
+END
+QRCodeGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/QRCodeGenerator.h
+END
+bitstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/bitstream.c
+END
+split.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/split.c
+END
+mask.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/mask.c
+END
+qrspec.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PTC01-i07150720-QuickCard/!svn/ver/114/trunk/QuickCard2/QuickCard/QuickCard/Vendor/libqrencode/qrspec.c
+END

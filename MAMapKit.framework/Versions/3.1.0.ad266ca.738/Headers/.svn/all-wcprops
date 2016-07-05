@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers
+END
+MAOfflineCity.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAOfflineCity.h
+END
+MAMapURLSearchConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAMapURLSearchConfig.h
+END
+MAOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAOverlayView.h
+END
+MAOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAOverlay.h
+END
+MAPolygonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAPolygonView.h
+END
+MAOfflineItemNationWide.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAOfflineItemNationWide.h
+END
+MAPointAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAPointAnnotation.h
+END
+MAMapKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAMapKit.h
+END
+MAPolylineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAPolylineView.h
+END
+MAPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAPolygon.h
+END
+MAMapURLSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAMapURLSearchType.h
+END
+MAOfflineItemMunicipality.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAOfflineItemMunicipality.h
+END
+MAOverlayPathView.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAOverlayPathView.h
+END
+MATileOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MATileOverlayView.h
+END
+MAGroundOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAGroundOverlayView.h
+END
+MAPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAPolyline.h
+END
+MATileOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MATileOverlay.h
+END
+MAGroundOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAGroundOverlay.h
+END
+MAOfflineItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAOfflineItem.h
+END
+MAOfflineItemCommonCity.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAOfflineItemCommonCity.h
+END
+MAAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAAnnotationView.h
+END
+MALineDrawType.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MALineDrawType.h
+END
+MAUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAUserLocation.h
+END
+MAAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAAnnotation.h
+END
+MAPinAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAPinAnnotationView.h
+END
+MAOfflineMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAOfflineMap.h
+END
+MAMapServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAMapServices.h
+END
+MAMapStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAMapStatus.h
+END
+MAMapURLSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAMapURLSearch.h
+END
+MAOfflineProvince.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAOfflineProvince.h
+END
+MATouchPoi.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MATouchPoi.h
+END
+MAGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAGeometry.h
+END
+MACircleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MACircleView.h
+END
+MAGeodesicPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAGeodesicPolyline.h
+END
+MAHeatMapTileOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAHeatMapTileOverlay.h
+END
+MAShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAShape.h
+END
+MACircle.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MACircle.h
+END
+MAMultiPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAMultiPoint.h
+END
+MAMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/PTC01-i07150720-QuickCard/!svn/ver/155/trunk/QuickCard2/QuickCard/MAMapKit.framework/Versions/3.1.0.ad266ca.738/Headers/MAMapView.h
+END
